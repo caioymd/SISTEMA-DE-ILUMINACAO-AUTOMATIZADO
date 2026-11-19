@@ -1,0 +1,19 @@
+Trabalho de Microcontroladores
+
+
+Integrantes
+André Lucas Brandão de Freitas
+Caio Yamada da Silva
+Herbis Caires Domingues
+Jonas Lima de Moura
+
+
+Professor
+Omar Sacilotto Donaires
+
+
+Simulador Wokwi, ESP32
+
+
+ESTÁCIO
+
